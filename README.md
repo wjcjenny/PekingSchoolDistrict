@@ -1,8 +1,7 @@
-# Peking Educational District in China VS housing prices
+# Peking Educational District
 
 ## Introduction
-Finding the realtion between housing prices and school level according to each educational districts in Peiking, China <br />
-Link: [jiachuanwu.com/PekingSchoolDistrict](https://jiachuanwu.com/PekingSchoolDistrict)
+Scrapping for each educational districts in Peiking, China <br />
 
 ## Update Diary
 - Apr. 10 2017
